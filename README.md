@@ -1,6 +1,3 @@
-# icvs-core-handshake
-A sovereign-grade, time-synchronized authentication protocol for distributed AI systems. Hardened against replay, timing, and clock manipulation attacks
-[README.md](https://github.com/user-attachments/files/25320865/README.md)
 # =============================================================================
 #
 #   ICVS SOVEREIGN-GRADE LOGIC LOCK & CORE VALIDATION STANDARD
